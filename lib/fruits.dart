@@ -13,7 +13,7 @@ class MyFruits extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: Colors.orange,
           title: const Text(
-            'Fruits',
+            'Fruits', 
             style: TextStyle(
                 fontSize: 25, fontFamily: 'Pacifico', color: Colors.white),
           ),
